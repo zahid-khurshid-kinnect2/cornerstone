@@ -1,0 +1,16 @@
+ssh -i cornerstone.pem ubuntu@54.254.250.34
+
+install apache2, mysql
+
+//Pull content from jehan pakistan repository.
+
+cd /var/www/html/jehan_pakistan 
+sudo git pull
+zahid-khurshid-kinnect2
+zahidmscs121
+
+
+///////////mysql
+
+sudo mysql -u root -p jehan_pakistan
+Jeh@nP@kistan
