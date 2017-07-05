@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Connect</title>
-
+    <title>Discover</title>
+<link href='{{asset('public/calendar/css/fullcalendar.min.css')}}' rel='stylesheet' />
+<link href='{{asset('public/calendar/css/fullcalendar.print.min.css')}}' rel='stylesheet' media='print' />
     <link href="{{asset('public/css/style.css')}}" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -14,6 +15,10 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    
+
+
+
 </head>
 <body>
 
@@ -81,9 +86,11 @@
                         <a href="{{url('about')}}">About</a>
                         <div class="dropdown_content">
                             <ul>
+                            	<li><a href="{{url('admissions')}}">Admissions</a></li>
                                 <li><a href="{{url('about')}}">Message of Director</a></li>
-                                <li><a href="{{url('mission')}};">Mission / Vission</a></li>
-                                <li><a href="{{url('contact')}}">Contact Info</a></li>
+                                <li><a href="{{url('mission')}}">Mission / Vission</a></li>
+                                <li><a href="{{url('faculty')}}">Meet The Team</a></li>
+                                <li><a href="{{url('contact')}}">Contact Us</a></li>
                             </ul>
                         </div>
                     </li>
@@ -91,26 +98,27 @@
                         <a href="{{url('discover')}}">Discover</a>
                         <div class="dropdown_content">
                             <ul>
+                            	
                                 <li><a href="{{url('pre-school')}}">Pre School</a></li>
                                 <li><a href="{{url('elementary')}}">Elementary</a></li>
                                 <li><a href="{{url('middle-school')}}">Middle School</a></li>
                                 <li><a href="{{url('high-school')}}">High School</a></li>
-                                <li><a href="{{url('internship')}}">Internship Program</a></li>
-                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>
-                                <li><a href="{{url('admissions')}}">Admissions</a></li>
+                                <li><a href="{{url('matriculation')}}">Matriculation</a></li>
                                 <li><a href="{{url('igcse')}}">IGCSE</a></li>
-
+                                <li><a href="{{url('a-levels')}}">A-Levels</a></li>
+                                <li><a href="{{url('internship')}}">Internship Program</a></li>
+                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>                                
+                                
                             </ul>
                         </div>
                     </li>
                     <li>
-                        <a href="#">Connect</a>
+                        <a href="{{url('photos')}}">Connect</a>
                         <div class="dropdown_content">
                             <ul>
-                                <li><a href="javascript:void(0);">Calender</a></li>
-                                <li><a href="javascript:void(0);">Parent Portal</a></li>
-                                <li><a href="javascript:void(0);">Activities</a></li>
-                                <li><a href="{{url('photos')}}">Gallery</a></li>
+                                <li><a href="{{url('calendar')}}">Calender</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->                                
+                                <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
                         </div>
@@ -128,17 +136,18 @@
                     <!--</ul>-->
                     <!--</li>-->
                 </ul>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+            </div><!-- /.container-fluid -->
     </nav>
 </header>
+
+
 
 <div class="main_content">
     <div class="breadcrumb_container">
         <div class="container">
             <ul class="breadcrumb">
                 <li><a href="{{url('/')}}">Home</a></li>
-                <li class="active"><a href="javascript:void(0);">About</a></li>
+                <li class="active"><a href="javascript:void(0);">Connect</a></li>
             </ul>
         </div>
     </div>

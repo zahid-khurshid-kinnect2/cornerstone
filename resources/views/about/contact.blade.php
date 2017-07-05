@@ -6,11 +6,12 @@
                 <div class="explore_post">
                     <h3>CONTACT US</h3>
                     <div class="map_container">
-                        <div id="map" style="height: 100%"></div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.7756715599658!2d74.17165961475615!3d31.39274848141204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3918ffa7201a5627%3A0xd41aa9c9d37a804b!2sCornerstone+High+School!5e0!3m2!1sen!2s!4v1496733102749" width="870" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <!--<div id="map" style="height: 100%"></div>-->
                     </div>
 
                     <div class="row post_form">
-                        <div class="col-xs-8 col-xs-offset-2 col-sm-6">
+                        <div class="col-xs-6">
                             <h4>SEND US A MESSAGE</h4>
                             <div class="container">
                                 @if(Session::has('flash_message'))
@@ -52,7 +53,7 @@
                             </form>
                         </div>
 
-                        <div class="col-xs-8 col-xs-offset-2 col-sm-6">
+                        <div class="col-xs-6">
                             <h4>Contact Info</h4>
 
                             <div class="contact_info">
@@ -63,7 +64,7 @@
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-                                        <span class="text">042 35971300  |  042 35971350</span>
+                                        <span class="text">042-35454001-02</span>
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
@@ -71,7 +72,7 @@
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
-                                        <span class="text">info@cornerstone.pk</span>
+                                        <span class="text">theacademics@cornerstone.pk</span>
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-internet-explorer" aria-hidden="true"></i></span>
@@ -83,15 +84,15 @@
 
                                 <h4>FOLLOW US ON</h4>
                                 <ul>
-                                    <li class="social_icon"><a href="https://www.facebook.com/CornerstoneHighSchool/"><i class="fa fa-facebook" aria-hidden="true"></i>
+                                    <li class="social_icon"><a href="https://www.facebook.com/CornerstoneHighSchool/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i>
                                         </a></li>
-                                    <li class="social_icon"><a href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <!-- <li class="social_icon"><a href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     <li class="social_icon li"><a href="javascript:void(0);"><i class="fa fa-linkedin"
                                                                                                 aria-hidden="true"></i>
                                         </a></li>
                                     <li class="social_icon"><a href="javascript:void(0);"><i
                                                     class="fa fa-pinterest-p" aria-hidden="true"></i>
-                                        </a></li>
+                                        </a></li> -->
                                 </ul>
                             </div>
                         </div>

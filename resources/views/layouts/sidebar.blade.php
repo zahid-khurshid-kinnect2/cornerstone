@@ -5,10 +5,10 @@
                 <ul>
                     <li><a href="{{url('about')}}" >Welcome from the Director</a></li>
                     <li><a href="{{url('admissions')}}">Admissions</a></li>
-                    <li><a href="{{url('trustees')}}">Board of Trustees</a></li>
+                    <!-- <li><a href="{{url('trustees')}}">Board of Trustees</a></li> -->
                     <li><a href="{{url('mission')}}">Mission and Vision</a></li>
                     <li><a href="{{url('contact')}}">Contact Us</a></li>
-                    <li><a href="{{url('faculty')}}">Faculty & Staff Directory</a></li>
+                    <li><a href="{{url('faculty')}}">Meet The Team</a></li>
                 </ul>
             </div>
         </div>

@@ -11,7 +11,7 @@
             </div>
             <div class="col-xs-6">
                 <div class="message">
-                    <h3>President’s Message</h3>
+                    <h3>Director’s Message</h3>
                     <div class="well">
                         “Cornerstone is your child’s “second home”. We cherish a vision of intellectual excellence to build a refined and well-groomed individual whose destiny is to arrive at their goals, that is a successful life ahead. We have an ingenious and innovative academic team. <a href="{{url('about')}}">Read More</a>
                     </div>
@@ -28,8 +28,8 @@
             <div class="col-sm-4 about_box">
                 <div class="wrapper">
                     <img src="{{asset('public/images/img_about-1.png')}}" height="112" width="112" alt="image">
-                    <h4>ABOUT CORNER STONE</h4>
-                    <p>We believe that schooling is the most significant phase in a child’s development because personality formation process of a child starts when he begins school. We at Cornerstone realize the importance of this stage and emphasize the most appropriate and accurate type of knowledge, skills, and attitudes to be inculcated at elementary level program.
+                    <h4>ABOUT CORNERSTONE</h4>
+                    <p>We believe that schooling is the most significant phase in a child’s development because personality formation process of a child starts when he begins school. We at Cornerstone realize the importance of this stage and..
 
                     </p>
                     <a class="btn btn-link" href="{{url('about')}}">Read More</a>
@@ -39,7 +39,7 @@
                 <div class="wrapper">
                     <img src="{{asset('public/images/img_about-1.png')}}" height="112" width="112" alt="image">
                     <h4>Our Mission</h4>
-                    <p>We at Cornerstone aim to build and foster our future young leaders by shaping their intellect with the desired knowledge, skills, abilities, and character enabling them to briskly fit into the society to help create a great and happy world. To achieve our goal of educational excellence in the international educational environment, we are working with schools, government and international organizations to develop and implement our programs blended with best practices and evaluation mechanisms.
+                    <p>We at Cornerstone aim to build and foster our future young leaders by shaping their intellect with the desired knowledge, skills, abilities, and character enabling them to briskly fit into the society to help create a great and..
 
                         </p>
                     <a class="btn btn-link" href="{{url('mission')}}">Read More</a>
@@ -61,8 +61,8 @@
     </div>
 </div>
 <!-- Double Slider -->
-<div class="multi_carousel">
-    <div class="container">
+<!-- <div class="multi_carousel"> -->
+    <!-- <div class="container">
         <div class="row">
             <div class="carousel slide multi-item-carousel" id="theCarousel">
                 <div class="carousel-inner">
@@ -117,9 +117,9 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-{{--<!-- Double Slider -->--}}
+<!-- {{--Double Slider--}}
 {{--<div class="multi_carousel">--}}
     {{--<div class="container">--}}
         {{--<div class="row">--}}
@@ -148,6 +148,6 @@
             {{--</div>--}}
         {{--</div>--}}
     {{--</div>--}}
-{{--</div>--}}
+{{--</div>--}} -->
 
 @include('layouts.footer')

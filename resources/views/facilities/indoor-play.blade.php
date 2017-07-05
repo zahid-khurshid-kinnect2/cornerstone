@@ -7,7 +7,7 @@
         <div class="explore_post">
             <h3>Indoor Play Gym</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/explore-post.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/softplay.jpg')}}" alt="image">
             </div>
             <p>
                 Our Indoor Play Gym is a wonderful entertainment option for us
@@ -16,7 +16,8 @@
 
                 improve their communication skills, play and interact in a safe
 
-                environment with other children and simply have fun.
+                environment with other children and simply have fun.</p>
+                <p>
 
                 Our gym is great fun and provides the perfect place for us to give
 

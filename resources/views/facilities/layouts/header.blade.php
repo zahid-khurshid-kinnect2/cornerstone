@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Facilities</title>
+    <title>Discover</title>
 
     <link href="{{asset('public/css/style.css')}}" rel="stylesheet">
 
@@ -54,8 +54,7 @@
                 </button>
             </div>
 
-            <div class="collapse navbar-collapse" id="corner_nav">
-                <ul class="nav nav_corner navbar-nav">
+            <ul class="nav nav_corner navbar-nav">
                     <li class="active">
                         <a href="{{url('science-lab')}}">Facilities</a>
                         <div class="dropdown_content">
@@ -81,9 +80,11 @@
                         <a href="{{url('about')}}">About</a>
                         <div class="dropdown_content">
                             <ul>
+                            	<li><a href="{{url('admissions')}}">Admissions</a></li>
                                 <li><a href="{{url('about')}}">Message of Director</a></li>
-                                <li><a href="{{url('mission')}};">Mission / Vission</a></li>
-                                <li><a href="{{url('contact')}}">Contact Info</a></li>
+                                <li><a href="{{url('mission')}}">Mission / Vission</a></li>
+                                <li><a href="{{url('faculty')}}">Meet The Team</a></li>
+                                <li><a href="{{url('contact')}}">Contact Us</a></li>
                             </ul>
                         </div>
                     </li>
@@ -91,13 +92,17 @@
                         <a href="{{url('discover')}}">Discover</a>
                         <div class="dropdown_content">
                             <ul>
+                            	
                                 <li><a href="{{url('pre-school')}}">Pre School</a></li>
                                 <li><a href="{{url('elementary')}}">Elementary</a></li>
                                 <li><a href="{{url('middle-school')}}">Middle School</a></li>
                                 <li><a href="{{url('high-school')}}">High School</a></li>
+                                <li><a href="{{url('matriculation')}}">Matriculation</a></li>
+                                <li><a href="{{url('igcse')}}">IGCSE</a></li>
+                                <li><a href="{{url('a-levels')}}">A-Levels</a></li>
                                 <li><a href="{{url('internship')}}">Internship Program</a></li>
-                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>
-                                <li><a href="{{url('admissions')}}">Admissions</a></li>
+                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>                                
+                                
                             </ul>
                         </div>
                     </li>
@@ -105,10 +110,10 @@
                         <a href="{{url('photos')}}">Connect</a>
                         <div class="dropdown_content">
                             <ul>
-                                <li><a href="javascript:void(0);">Calender</a></li>
-                                <li><a href="javascript:void(0);">Parent Portal</a></li>
-                                <li><a href="javascript:void(0);">Activities</a></li>
-                                <li><a href="">Gallery</a></li>
+                                <li><a href="{{url('calendar')}}">Calender</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->
+                               
+                                <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
                         </div>
@@ -125,11 +130,11 @@
                     <!--<li><a href="#">One more separated link</a></li>-->
                     <!--</ul>-->
                     <!--</li>-->
-                </ul>
-            </div><!-- /.navbar-collapse -->
+                </ul><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
 </header>
+
 
 
 <div class="main_content">
@@ -137,7 +142,7 @@
         <div class="container">
             <ul class="breadcrumb">
                 <li><a href="{{url('/')}}">Home</a></li>
-                <li class="active"><a href="javascript:void(0);">Facilities</a></li>
+                <li class="active"><a href="javascript:void(0);">Discover</a></li>
             </ul>
         </div>
     </div>

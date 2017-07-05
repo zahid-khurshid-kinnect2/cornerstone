@@ -7,24 +7,12 @@
         <div class="explore_post">
             <h3>School Transport</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/explore-post.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/transport.JPG')}}" alt="image">
             </div>
             <p>
-                Cornerstone school is providing the transport facility to
-
-                students, where the distance from home to school is not
-
-                walkable. The students are picked up from the designated pick-
-
-                up points. The school bus waits for the student at the pick-up
-
-                point for only two minutes. A nominal fee is charged from all
-
-                the students. School fee collection policy will apply. The
-
-                transportation plan and all the route details can be obtained by
-
-                the school office.</p>
+                Cornerstone School  provides a transport facility to students/faculty members, where the distance from home to school is not walkable. The bus is accompanied by a maid and a security guard. The transport is provided on a first come first serve basis. </p>
+<p>
+All students are to behave in an appropriate manner when travelling on school transport.      Parents are responsible for ensuring that their child reaches the pick-up point and that they board the vehicle safely. They should also ensure that their child is aware of the need to fasten their safety belt (where provided) and not to move around in the vehicle during the journey.</p>
         </div>
     </div>
 </div>

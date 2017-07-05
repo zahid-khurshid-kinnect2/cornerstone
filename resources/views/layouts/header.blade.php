@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Corner Stone School</title>
+    <title>Cornerstone School</title>
 
     <link href="{{asset('public/css/style.css')}}" rel="stylesheet">
 
@@ -22,16 +22,16 @@
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
             <li data-target="#carousel" data-slide-to="1"></li>
             <li data-target="#carousel" data-slide-to="2"></li>
-            <li data-target="#carousel" data-slide-to="3"></li>
-            <li data-target="#carousel" data-slide-to="4"></li>
+            <!--<li data-target="#carousel" data-slide-to="3"></li>
+            <li data-target="#carousel" data-slide-to="4"></li>-->
         </ol>
         <!-- Carousel items -->
         <div class="carousel-inner">
-            <div class="item active"><img src="{{asset('public/images/slide-1.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/slide-2.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/slide-3.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/slide-4.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/slide-5.jpg')}}" alt="image-carousel"></div>
+            <div class="item active"><img src="{{asset('public/images/03.jpg')}}" alt="image-carousel"></div>
+            <div class="item"><img src="{{asset('public/images/002.jpg')}}" alt="image-carousel"></div>
+            <div class="item"><img src="{{asset('public/images/003.jpg')}}" alt="image-carousel"></div>
+            <!--<div class="item"><img src="{{asset('public/images/04.jpg')}}" alt="image-carousel"></div>
+            <div class="item"><img src="{{asset('public/images/02.jpg')}}" alt="image-carousel"></div>-->
         </div>
         <!-- Carousel nav -->
         <!--<a class="carousel-control left" href="#carousel" data-slide="prev">&lsaquo;</a>-->
@@ -95,9 +95,11 @@
                         <a href="{{url('about')}}">About</a>
                         <div class="dropdown_content">
                             <ul>
+                            	<li><a href="{{url('admissions')}}">Admissions</a></li>
                                 <li><a href="{{url('about')}}">Message of Director</a></li>
-                                <li><a href="{{url('mission')}};">Mission / Vision</a></li>
-                                <li><a href="{{url('contact')}}">Contact Info</a></li>
+                                <li><a href="{{url('mission')}}">Mission / Vission</a></li>
+                                <li><a href="{{url('faculty')}}">Meet The Team</a></li>
+                                <li><a href="{{url('contact')}}">Contact Us</a></li>
                             </ul>
                         </div>
                     </li>
@@ -105,14 +107,17 @@
                         <a href="{{url('discover')}}">Discover</a>
                         <div class="dropdown_content">
                             <ul>
+                            	
                                 <li><a href="{{url('pre-school')}}">Pre School</a></li>
                                 <li><a href="{{url('elementary')}}">Elementary</a></li>
                                 <li><a href="{{url('middle-school')}}">Middle School</a></li>
                                 <li><a href="{{url('high-school')}}">High School</a></li>
-                                <li><a href="{{url('internship')}}">Internship Program</a></li>
-                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>
-                                <li><a href="{{url('admissions')}}">Admissions</a></li>
+                                <li><a href="{{url('matriculation')}}">Matriculation</a></li>
                                 <li><a href="{{url('igcse')}}">IGCSE</a></li>
+                                <li><a href="{{url('a-levels')}}">A-Levels</a></li>
+                                <li><a href="{{url('internship')}}">Internship Program</a></li>
+                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>                                
+                                
                             </ul>
                         </div>
                     </li>
@@ -121,14 +126,24 @@
                         <div class="dropdown_content">
                             <ul>
                                 <li><a href="{{url('calendar')}}">Calender</a></li>
-                                <li><a href="javascript:void(0);">Parent Portal</a></li>
-                                <li><a href="javascript:void(0);">Activities</a></li>
-                                <li><a href="{{url('photos')}}">Gallery</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->                                
+                                <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
                         </div>
                     </li>
-
+                    <!--<li class="dropdown">-->
+                    <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>-->
+                    <!--<ul class="dropdown-menu">-->
+                    <!--<li><a href="#">Action</a></li>-->
+                    <!--<li><a href="#">Another action</a></li>-->
+                    <!--<li><a href="#">Something else here</a></li>-->
+                    <!--<li role="separator" class="divider"></li>-->
+                    <!--<li><a href="#">Separated link</a></li>-->
+                    <!--<li role="separator" class="divider"></li>-->
+                    <!--<li><a href="#">One more separated link</a></li>-->
+                    <!--</ul>-->
+                    <!--</li>-->
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -140,8 +155,8 @@
         </button>
     </div>
 
-    <div class="fixed_buttons">
+    <!--<div class="fixed_buttons">
         <a href="javascript:void(0);" class="btn btn_fix">Virtual Tour</a>
         <a href="javascript:void(0);" class="btn btn_fix welcome">Welcome Video</a>
-    </div>
+    </div>-->
 </header>

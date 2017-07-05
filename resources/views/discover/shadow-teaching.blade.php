@@ -6,25 +6,17 @@
         <div class="explore_post">
             <h3>Shadow Teaching</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/preschool.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/shadow.jpg')}}" alt="image">
             </div>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id diam ipsum. Sed finibus libero eget nunc dapibus, id porta ex dignissim. In et lorem et felis varius gravida eget non urna. Ut nisl lorem, pretium id orci at, posuere cursus nisi. Nulla fermentum aliquet tincidunt. Quisque vel est eleifend, vehicula risus gravida, pulvinar felis. Mauris at nisl nulla. Phasellus blandit erat eu sem suscipit, at consectetur ligula tincidunt.
+                <strong>Every Child Matters</strong><br />
+
+Embracing the philosophy of Inclusive Education, we at Cornerstone School believe that every child brings something unique to the classroom in terms of strengths that we can build on to maximize their possibilities for growth and success.  Keeping the child in mind, we tailor our educational programmes accordingly to meet the unique needs of these differently abled minds. Thus, ensuring that they embark on a meaningful journey of learning with us and reach their maximum potential.  Our goal for each individual student is a more effective, independent and improved quality of life.</p>
+<p>
+Instead of a one-size-fits-all pedagogy, we have developed a highly individualized program as per the educational and behavioral needs of each student and have incorporated variety of teaching methodologies to bring out the best in them. With the combined efforts of a diligent team of professionals, the Individualized Educational Plan is implemented to foster academic excellence and success. Each student is assigned a highly skilled and qualified SEN assistance, entrusted with the student's well-being, to provide additional guidance and support in order for the student to successfully integrate into the mainstream environment. Our system works towards gradually fading out the shadow support as our ultimate goal is to develop an independent learner.
+
             </p>
-            <p>
-                Ut elit est, semper ac ultricies non, pharetra in risus. Nunc euismod dolor aliquam, accumsan odio at, egestas mi. Suspendisse vel luctus massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dictum libero sit amet elit maximus iaculis. Sed quam eros, bibendum vel facilisis a, venenatis ac lectus. Cras pretium ultricies nisi, eu ultrices turpis rhoncus sed. Curabitur vitae tincidunt quam, eget ullamcorper sem. Etiam feugiat quis nulla ac varius. Nam ut accumsan leo. Nam et feugiat dui, ut pretium odio. Suspendisse efficitur magna augue, in dapibus enim molestie vitae. Curabitur in neque sed justo posuere porttitor.
-            </p>
-            <ul>
-                <li> Cras malesuada nisl auctor, egestas tortor sit amet, mollis quam.</li>
-                <li>Praesent eget tellus tristique, vestibulum mi vel, lacinia diam.</li>
-                <li>Suspendisse vulputate ligula non nisl malesuada, id bibendum neque mattis.</li>
-                <li>Ut dignissim velit non mauris molestie dignissim.</li>
-                <li>Ut dignissim velit non mauris molestie dignissim.</li>
-                <li>Vestibulum sagittis lectus at est finibus, non lobortis mi pretium.</li>
-            </ul>
-            <p>
-                Ut elit est, semper ac ultricies non, pharetra in risus. Nunc euismod dolor aliquam, accumsan odio at, egestas mi. Suspendisse vel luctus massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dictum libero sit amet elit maximus iaculis. Sed quam eros, bibendum vel facilisis a, venenatis ac lectus. Cras pretium ultricies nisi, eu ultrices turpis rhoncus sed. Curabitur vitae tincidunt quam, eget ullamcorper sem. Etiam feugiat quis nulla ac varius. Nam ut accumsan leo. Nam et feugiat dui, ut pretium odio. Suspendisse efficitur magna augue, in dapibus enim molestie vitae. Curabitur in neque sed justo posuere porttitor.
-            </p>
+            
         </div>
     </div>
 </div>

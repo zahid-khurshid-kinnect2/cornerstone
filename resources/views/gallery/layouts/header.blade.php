@@ -81,9 +81,11 @@
                         <a href="{{url('about')}}">About</a>
                         <div class="dropdown_content">
                             <ul>
+                            	<li><a href="{{url('admissions')}}">Admissions</a></li>
                                 <li><a href="{{url('about')}}">Message of Director</a></li>
-                                <li><a href="{{url('mission')}};">Mission / Vission</a></li>
-                                <li><a href="{{url('contact')}}">Contact Info</a></li>
+                                <li><a href="{{url('mission')}}">Mission / Vission</a></li>
+                                <li><a href="{{url('faculty')}}">Meet The Team</a></li>
+                                <li><a href="{{url('contact')}}">Contact Us</a></li>
                             </ul>
                         </div>
                     </li>
@@ -91,15 +93,17 @@
                         <a href="{{url('discover')}}">Discover</a>
                         <div class="dropdown_content">
                             <ul>
+                            	
                                 <li><a href="{{url('pre-school')}}">Pre School</a></li>
                                 <li><a href="{{url('elementary')}}">Elementary</a></li>
                                 <li><a href="{{url('middle-school')}}">Middle School</a></li>
                                 <li><a href="{{url('high-school')}}">High School</a></li>
-                                <li><a href="{{url('internship')}}">Internship Program</a></li>
-                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>
-                                <li><a href="{{url('admissions')}}">Admissions</a></li>
+                                <li><a href="{{url('matriculation')}}">Matriculation</a></li>
                                 <li><a href="{{url('igcse')}}">IGCSE</a></li>
-
+                                <li><a href="{{url('a-levels')}}">A-Levels</a></li>
+                                <li><a href="{{url('internship')}}">Internship Program</a></li>
+                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>                                
+                                
                             </ul>
                         </div>
                     </li>
@@ -107,10 +111,9 @@
                         <a href="{{url('photos')}}">Connect</a>
                         <div class="dropdown_content">
                             <ul>
-                                <li><a href="{{url('calendar')}}">Calender</a></li>
-                                <li><a href="javascript:void(0);">Parent Portal</a></li>
-                                <li><a href="javascript:void(0);">Activities</a></li>
-                                <li><a href="{{url('photos')}}">Gallery</a></li>
+                                <li><a href="javascript:void(0);">Calender</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->                                
+                                <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
                         </div>

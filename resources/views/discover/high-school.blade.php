@@ -9,21 +9,8 @@
                 <img class="img-responsive" src="{{asset('public/images/preschool.jpg')}}" alt="image">
             </div>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id diam ipsum. Sed finibus libero eget nunc dapibus, id porta ex dignissim. In et lorem et felis varius gravida eget non urna. Ut nisl lorem, pretium id orci at, posuere cursus nisi. Nulla fermentum aliquet tincidunt. Quisque vel est eleifend, vehicula risus gravida, pulvinar felis. Mauris at nisl nulla. Phasellus blandit erat eu sem suscipit, at consectetur ligula tincidunt.
-            </p>
-            <p>
-                Ut elit est, semper ac ultricies non, pharetra in risus. Nunc euismod dolor aliquam, accumsan odio at, egestas mi. Suspendisse vel luctus massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dictum libero sit amet elit maximus iaculis. Sed quam eros, bibendum vel facilisis a, venenatis ac lectus. Cras pretium ultricies nisi, eu ultrices turpis rhoncus sed. Curabitur vitae tincidunt quam, eget ullamcorper sem. Etiam feugiat quis nulla ac varius. Nam ut accumsan leo. Nam et feugiat dui, ut pretium odio. Suspendisse efficitur magna augue, in dapibus enim molestie vitae. Curabitur in neque sed justo posuere porttitor.
-            </p>
-            <ul>
-                <li> Cras malesuada nisl auctor, egestas tortor sit amet, mollis quam.</li>
-                <li>Praesent eget tellus tristique, vestibulum mi vel, lacinia diam.</li>
-                <li>Suspendisse vulputate ligula non nisl malesuada, id bibendum neque mattis.</li>
-                <li>Ut dignissim velit non mauris molestie dignissim.</li>
-                <li>Ut dignissim velit non mauris molestie dignissim.</li>
-                <li>Vestibulum sagittis lectus at est finibus, non lobortis mi pretium.</li>
-            </ul>
-            <p>
-                Ut elit est, semper ac ultricies non, pharetra in risus. Nunc euismod dolor aliquam, accumsan odio at, egestas mi. Suspendisse vel luctus massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dictum libero sit amet elit maximus iaculis. Sed quam eros, bibendum vel facilisis a, venenatis ac lectus. Cras pretium ultricies nisi, eu ultrices turpis rhoncus sed. Curabitur vitae tincidunt quam, eget ullamcorper sem. Etiam feugiat quis nulla ac varius. Nam ut accumsan leo. Nam et feugiat dui, ut pretium odio. Suspendisse efficitur magna augue, in dapibus enim molestie vitae. Curabitur in neque sed justo posuere porttitor.
+               We believe that all students have potential to learn in a variety of ways. Cornerstone High School is a place where students become more confident, caring and capable as they focus on the challenges of a meaningful and well-rounded curriculum. This curriculum is a multi-layered program through which students not only learn the content of each course but also collaborate and practice leadership skills. They develop socially and develop into mature adults. </p>
+               <p>The school also offers a variety of clubs from robotics to Mental Maths, making teams and developing sports teams to Guidance Club. Guidance club is one such club which assists the students in vocational decisions and guides them throughout. Cornerstone School is registered at both EdExcel and Punjab Board for IGCSE and Matriculation Examination. After the middle school the students branch out in two directions with different sets of subjects and teachers, course outlines, teaching and testing methods.
             </p>
         </div>
     </div>

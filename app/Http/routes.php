@@ -39,13 +39,17 @@ Route::post('requestForm', 'PagesController@contactForm');
 //Discover Pages
 
 Route::get('discover','PagesController@discover');
+Route::get('elementary','PagesController@elementary');
 Route::get('high-school','PagesController@high_school');
 Route::get('middle-school','PagesController@middle_school');
 Route::get('pre-school','PagesController@pre_school');
+Route::get('matriculation','PagesController@matriculation');
 Route::get('shadow-teaching','PagesController@shadow_teaching');
 Route::get('igcse','PagesController@igcse');
 Route::get('photos','PagesController@images');
 Route::get('videos','PagesController@videos');
+Route::get('internship','PagesController@internship');
+Route::get('a-levels','PagesController@a_levels');
 
 
 
@@ -64,7 +68,6 @@ Route::get('gymnasium','PagesController@gymnasium');
 Route::get('media-room','PagesController@mediaRoom');
 Route::get('library','PagesController@library');
 Route::get('transport','PagesController@transport');
-
 Route::get('calendar','PagesController@calendar');
 
 
@@ -73,7 +76,7 @@ Route::get('calendar','PagesController@calendar');
 //Connect Pages
 Route::get('apply','PagesController@apply');
 
-
+Route::post('applyForm', 'PagesController@applyForm');
 
 
 Route::group(['middleware'=>['auth']],function(){

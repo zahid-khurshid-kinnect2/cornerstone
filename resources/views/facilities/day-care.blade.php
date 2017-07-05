@@ -7,14 +7,15 @@
         <div class="explore_post">
             <h3>Day Care</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/explore-post.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/daycare.jpg')}}" alt="image">
             </div>
             <p>
                 Our infant room is “home away from home” for children 6 weeks to 18 months of age.
 
                 Infants are placed with a primary teacher whose goal is to build trust and a close
 
-                relationship with both the child and their family
+                relationship with both the child and their family</p>
+                <p>
 
                 We foster your infant’s social emotional development by giving them full verbal and
 

@@ -7,12 +7,17 @@
         <div class="explore_post">
             <h3>Gymnasium</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/explore-post.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/gym1.jpg')}}" alt="image">
             </div>
             <p>
-                CSS school gym is the athletic center of the school. This facility serves in several capacities in addition to the sporting aspect and is a multi-purpose facility, including regulation-sized court,adequate seating, and necessary sports equipment.
-            </p>
-            <p>The sound proof gym has the capacity to holda huge group of students for the theater, assemblies, matches and other activities. It allows all thestudents to get involved in P.E regardless of their abilities or interest in Sports. Those with a sporting bent are able to fully develop their potential and good training habits, whilst those less interested in sports become involved through the fitness program. We at Cornerstone believe in the fitness of mind as well therefore games like chess, carom and scrabble also are allocated a corner in the gym. Every Friday students gather in the gym for aerobics and yoga to relax; and sometimes karate to train for self-defence.</p>
+                Cornerstone School has an air-conditioned gym with equipment for toning and proper weight management. 
+A qualified and experienced gym instructor is available for both boys and girls. 
+The use of the gym is encouraged as it develops a positive mind and instils stamina and discipline in the user. 
+</p>
+<p>
+Students are given time during the school day to use this facility wisely.  
+It has been proven that exercises or workout in your daily routine keep one physically fit and mentally healthy. Accomplishment of such goals in this era are an important part of student growth. 
+Gym use is also proven to boost one's inner confidence.  </p>
         </div>
     </div>
 </div>

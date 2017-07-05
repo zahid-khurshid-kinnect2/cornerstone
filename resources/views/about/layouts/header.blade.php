@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About</title>
+    <title>Discover</title>
 
     <link href="{{asset('public/css/style.css')}}" rel="stylesheet">
 
@@ -21,7 +21,7 @@
 <header class="header_inner">
     <!--Inner Page Background Image-->
     <div class="inner_page_img">
-        <img class="img" src="{{asset('public/images/explore-banner.jpg')}}" alt="image">
+        <img class="img" src="{{asset('public/images/explore-banner.jpg')}}" alt="imgage">
     </div>
 
     <div class="nav_top" >
@@ -81,9 +81,11 @@
                         <a href="{{url('about')}}">About</a>
                         <div class="dropdown_content">
                             <ul>
+                            	<li><a href="{{url('admissions')}}">Admissions</a></li>
                                 <li><a href="{{url('about')}}">Message of Director</a></li>
-                                <li><a href="{{url('mission')}}">Mission / Vision</a></li>
-                                <li><a href="{{url('contact')}}">Contact Info</a></li>
+                                <li><a href="{{url('mission')}}">Mission / Vission</a></li>
+                                <li><a href="{{url('faculty')}}">Meet The Team</a></li>
+                                <li><a href="{{url('contact')}}">Contact Us</a></li>
                             </ul>
                         </div>
                     </li>
@@ -91,15 +93,17 @@
                         <a href="{{url('discover')}}">Discover</a>
                         <div class="dropdown_content">
                             <ul>
+                            	
                                 <li><a href="{{url('pre-school')}}">Pre School</a></li>
                                 <li><a href="{{url('elementary')}}">Elementary</a></li>
                                 <li><a href="{{url('middle-school')}}">Middle School</a></li>
                                 <li><a href="{{url('high-school')}}">High School</a></li>
-                                <li><a href="{{url('internship')}}">Internship Program</a></li>
-                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>
-                                <li><a href="{{url('admissions')}}">Admissions</a></li>
+                                <li><a href="{{url('matriculation')}}">Matriculation</a></li>
                                 <li><a href="{{url('igcse')}}">IGCSE</a></li>
-
+                                <li><a href="{{url('a-levels')}}">A-Levels</a></li>
+                                <li><a href="{{url('internship')}}">Internship Program</a></li>
+                                <li><a href="{{url('shadow-teaching')}}">Shadow Teaching</a></li>                                
+                                
                             </ul>
                         </div>
                     </li>
@@ -108,26 +112,37 @@
                         <div class="dropdown_content">
                             <ul>
                                 <li><a href="{{url('calendar')}}">Calender</a></li>
-                                <li><a href="javascript:void(0);">Parent Portal</a></li>
-                                <li><a href="javascript:void(0);">Activities</a></li>
-                                <li><a href="{{url('photos')}}">Gallery</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->                                
+                                <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
                         </div>
                     </li>
-
+                    <!--<li class="dropdown">-->
+                    <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>-->
+                    <!--<ul class="dropdown-menu">-->
+                    <!--<li><a href="#">Action</a></li>-->
+                    <!--<li><a href="#">Another action</a></li>-->
+                    <!--<li><a href="#">Something else here</a></li>-->
+                    <!--<li role="separator" class="divider"></li>-->
+                    <!--<li><a href="#">Separated link</a></li>-->
+                    <!--<li role="separator" class="divider"></li>-->
+                    <!--<li><a href="#">One more separated link</a></li>-->
+                    <!--</ul>-->
+                    <!--</li>-->
                 </ul>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+            </div><!-- /.container-fluid -->
     </nav>
 </header>
+
+
 
 <div class="main_content">
     <div class="breadcrumb_container">
         <div class="container">
             <ul class="breadcrumb">
                 <li><a href="{{url('/')}}">Home</a></li>
-                <li class="active"><a href="{{url('about')}}">About</a></li>
+                <li class="active"><a href="javascript:void(0);">Discover</a></li>
             </ul>
         </div>
     </div>

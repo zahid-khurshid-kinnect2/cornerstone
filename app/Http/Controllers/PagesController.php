@@ -50,12 +50,28 @@ class PagesController extends Controller
         return view('discover.middle-school');
 
     }
+	public function matriculation(){
+        return view('discover.matriculation');
+
+    }
     public function pre_school(){
         return view('discover.pre-school');
 
     }
     public function shadow_teaching(){
         return view('discover.shadow-teaching');
+
+    }
+	public function elementary(){
+        return view('discover.elementary');
+
+    }
+	public function a_levels(){
+        return view('discover.a-levels');
+
+    }
+	public function internship(){
+        return view('discover.internship');
 
     }
     public function igcse(){
@@ -165,7 +181,7 @@ class PagesController extends Controller
 
             Mail::send('about.email', $data, function ($message) use ($data) {
                 $message->from($data['email']);
-                $message->to('your-email@hotmail.com');
+                $message->to('waqas@blueorcastudios.com');
                 $message->subject($data['subject']);
 
             });
@@ -186,6 +202,43 @@ class PagesController extends Controller
 
     }
 
+  public function applyForm(Request $request)
+    {
+//        dd($request->all());
+        $this->validate($request, [
+            'name' => 'required|min:3',
+            'number' => 'required|min:11',
+            'email' => 'required|email',
+            'subject' => 'required|min:2',
+            'message' => 'required',
+            'cv'      => 'required|mimes:jpeg,pdf,docx,doc'
+        ]);
+
+                $data = array(
+                    'name'=>$request->name,
+
+                    'email' => $request->email,
+                    'subject' => $request->subject,
+                    'bodyMessage' => $request->message,
+                    'cv' => $request->cv
+
+                );
+
+                Mail::send('about.email', $data, function ($message) use ($data) {
+                    $message->from($data['email']);
+                    $message->to('sheraz_Ali_butt@hotmail.com');
+                    $message->subject($data['subject']);
+                    $message->attach($data['cv']->getRealPath(),array(
+                        'as' =>'CV.'.$data['cv']->getClientOriginalExtension(),
+                        'mime'=> $data['cv']->getMimeType()
+
+                    ));
+
+                });
+
+                return redirect()->back()->with(Session::flash('flash_message', 'Detailed Submitted And Email Sent !'));
+
+            }
 
 
 }
