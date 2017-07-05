@@ -4,7 +4,7 @@
 
             <div class="col-sm-8 col-md-9">
                 <div class="explore_post">
-                    <h3>CONTACT US</h3>
+                    <h3>CONTACT UX</h3>
                     <div class="map_container">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.7756715599658!2d74.17165961475615!3d31.39274848141204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3918ffa7201a5627%3A0xd41aa9c9d37a804b!2sCornerstone+High+School!5e0!3m2!1sen!2s!4v1496733102749" width="870" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                         <!--<div id="map" style="height: 100%"></div>-->
