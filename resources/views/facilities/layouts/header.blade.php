@@ -89,7 +89,7 @@
                         </div>
                     </li>
                     <li>
-                        <a href="{{url('discover')}}">Discover</a>
+                        <a href="javascript:void(0);">Discover</a>
                         <div class="dropdown_content">
                             <ul>
                             	

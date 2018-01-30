@@ -226,7 +226,7 @@ class PagesController extends Controller
 
                 Mail::send('about.email', $data, function ($message) use ($data) {
                     $message->from($data['email']);
-                    $message->to('sheraz_Ali_butt@hotmail.com');
+                    $message->to(env('HR_EMAIL_ADDRESS', 'hr@cornersotne.pk'));
                     $message->subject($data['subject']);
                     $message->attach($data['cv']->getRealPath(),array(
                         'as' =>'CV.'.$data['cv']->getClientOriginalExtension(),
