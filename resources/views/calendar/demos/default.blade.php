@@ -1,6 +1,4 @@
 @include('calendar.layout.header')
-
-
 <style>
 
 	body {
