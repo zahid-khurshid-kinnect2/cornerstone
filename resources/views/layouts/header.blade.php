@@ -27,9 +27,9 @@
         </ol>
         <!-- Carousel items -->
         <div class="carousel-inner">
-            <div class="item active"><img src="{{asset('public/images/03.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/002.jpg')}}" alt="image-carousel"></div>
-            <div class="item"><img src="{{asset('public/images/003.jpg')}}" alt="image-carousel"></div>
+            <div class="item active"><img src="{{asset('public/images/1.jpg')}}" alt="image-carousel"></div>
+            <div class="item"><img src="{{asset('public/images/2.jpg')}}" alt="image-carousel"></div>
+            <div class="item"><img src="{{asset('public/images/3.jpg')}}" alt="image-carousel"></div>
             <!--<div class="item"><img src="{{asset('public/images/04.jpg')}}" alt="image-carousel"></div>
             <div class="item"><img src="{{asset('public/images/02.jpg')}}" alt="image-carousel"></div>-->
         </div>

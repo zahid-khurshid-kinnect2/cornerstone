@@ -11,7 +11,9 @@
 </style>
 <div class="col-sm-8 col-md-9">
 <h3> Images Gallery </h3>
-<iframe src='https://www.displaysocialmedia.com/app/embed/index.php?embed_id=1392' frameborder='0' width='100%' height='1000'></iframe>
+<iframe scrolling="no" marginheight="0" frameborder="0" width="731" style="height: 717px;" src="https://socialgalleria.com/gallery.php?id=CornerstoneHighSchool&rows=4&margin=10&cols=4&width=170&font_size=11&title_color=000&hide_next_back=0&share_buttons=1&shape=rectangle&frame=0&token=a731703f-065f-11e8-b4af-dad188387ed2"></iframe>
+
+
                     <!--<div class="col-md-3 thumb">
 					<a class="thumbnail" href="ImageGallery.html#modal1" data-toggle="modal"><img src="http://cornerstone.pk/wp-content/uploads/2016/07/123.jpg" class="img-responsive"><label> Album:A Fit Body</label></a>
 					<div class="modal" id="modal1">
