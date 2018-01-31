@@ -29,7 +29,7 @@
                         		
                         		
                         		
-                        		<div class="anchor"><a href="{{url('calendar')}}">Calender</a></div>
+                        		<div class="anchor"><!--<a href="{{url('calendar')}}">Calender</a>--></div>
                        
                         <!--A time out from studies<br>
                         <span>March 21, 2017</span>-->
