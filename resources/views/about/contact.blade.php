@@ -72,7 +72,7 @@
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
-                                        <span class="text">theacademics@cornerstone.pk</span>
+                                        <span class="text">hr@cornerstone.pk</span>
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-internet-explorer" aria-hidden="true"></i></span>
