@@ -6,7 +6,7 @@
         <div class="explore_post">
             <h3>Shadow Teaching</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/shadow.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/shadow-teaching.jpg')}}" alt="image">
             </div>
             <p>
                 <strong>Every Child Matters</strong><br />

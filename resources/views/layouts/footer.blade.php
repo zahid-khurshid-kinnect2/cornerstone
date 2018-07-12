@@ -29,7 +29,7 @@
                         		
                         		
                         		
-                        		<div class="anchor"><!--<a href="{{url('calendar')}}">Calender</a>--></div>
+                        		<div class="anchor"><a href="{{url('calendar')}}">Calender</a></div>
                        
                         <!--A time out from studies<br>
                         <span>March 21, 2017</span>-->
@@ -51,8 +51,8 @@
                     <h3>Get in touch</h3>
                     <ul>
                         <li>042-35454001-02</li>
-                        <li>theacademics@cornerstoneschool.com</li>
-                        <li>www.cornerstoneschool.com</li>
+                        <li>hr@cornerstone.pk</li>
+                        <li>www.cornerstone.pk</li>
                         <li>71-72 B, Canal Gardens, Near Bahria Town, Lahore.</li>
                     </ul>
                     <div class="soc_nav">

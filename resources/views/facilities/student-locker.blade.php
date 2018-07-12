@@ -9,12 +9,12 @@
             <div class="image">
                 <img class="img-responsive" src="{{asset('public/images/lockers.jpg')}}" alt="image">
             </div>
-            <h1>Lockers</h1>
+            <!-- <h1>Lockers</h1> -->
             <p>
                 Lockers are provided to the students from Grade 5 – A Levels on proper terms and conditions.
             </p>
             
-<h2 align="center">Locker Policy and Procedures</h2>
+<!-- <h2 align="center">Locker Policy and Procedures</h2>
 
             <ol>
             <li>Lockers
@@ -81,7 +81,7 @@ locker, or any other items reasonably determined to be of a potential threat to 
             		<li>All lockers will be cleared out at the end of the year.</li>
             		<li>Any items left in the lockers will become school property.</li>
             	</ul>
-            </li>         
+            </li>          -->
             
         </div>
     </div>

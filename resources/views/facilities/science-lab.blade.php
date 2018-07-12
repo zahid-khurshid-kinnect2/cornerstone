@@ -7,7 +7,7 @@
         <div class="explore_post">
             <h3>Science Lab</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/science.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/science-lab.jpg')}}" alt="image">
             </div>
             <p>
                 Science is different from any other subject. In order to understand its concepts, one has to look beyond the books and conventional classroom teaching. Effective teaching and learning of science involves seeing, handling, and manipulating real objects and materials. The knowledge that students attain in classrooms are ineffectual unless they actually observe the process and understand the relationship between action and reaction.</p>

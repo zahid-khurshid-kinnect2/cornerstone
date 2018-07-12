@@ -7,7 +7,7 @@
         <div class="explore_post">
             <h3>Library</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/library.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/library-.jpg')}}" alt="image">
             </div>
             <p>
                 A sanctuary, a mine of treasure, a house of maps to secret lives in secret worlds… – the library

@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-xs-offset-1 col-xs-3">
                 <div class="p-img">
-                    <img class="img-responsive" src="{{asset('public/images/president_img.jpg')}}" alt="image">
+                    <img class="img-responsive" src="{{asset('public/images/president_img.png')}}" alt="image">
                 </div>
             </div>
             <div class="col-xs-6">

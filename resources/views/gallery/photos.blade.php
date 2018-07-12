@@ -11,7 +11,8 @@
 </style>
 <div class="col-sm-8 col-md-9">
 <h3> Images Gallery </h3>
-<iframe scrolling="no" marginheight="0" frameborder="0" width="731" style="height: 717px;" src="https://socialgalleria.com/gallery.php?id=CornerstoneHighSchool&rows=4&margin=10&cols=4&width=170&font_size=11&title_color=000&hide_next_back=0&share_buttons=1&shape=rectangle&frame=0&token=a731703f-065f-11e8-b4af-dad188387ed2"></iframe>
+<iframe scrolling="no" marginheight="0" frameborder="0" width="641" style="height: 853px;" src="https://socialgalleria.com/gallery.php?id=CornerstoneHighSchool&rows=4&margin=10&cols=3&width=200&font_size=11&title_color=000&hide_next_back=0&share_buttons=1&shape=rectangle&frame=1&token=a731703f-065f-11e8-b4af-dad188387ed2"></iframe>
+<!-- <iframe scrolling="no" marginheight="0" frameborder="0" width="731" style="height: 717px;" src="https://socialgalleria.com/gallery.php?id=CornerstoneHighSchool&rows=4&margin=10&cols=4&width=170&font_size=11&title_color=000&hide_next_back=0&share_buttons=1&shape=rectangle&frame=0&token=a731703f-065f-11e8-b4af-dad188387ed2"></iframe> -->
 
 
                     <!--<div class="col-md-3 thumb">

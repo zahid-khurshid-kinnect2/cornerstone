@@ -62,7 +62,7 @@
                         <div class="row">
                             <div class="col-xs-3">
                                 <div class="_image_name">
-                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/02.jpg')}}" alt="image">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/wajeeha.jpg')}}" alt="image">
                                     <h5 class="name_name">Ms. Wajeeha Raoof</h5>
                                     <h4 class="text-muted">(Director)</h4>
                                 </div>
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                         </div>
-                    <div class="_name_detail">
+                    <!-- <div class="_name_detail"> 
                         <div class="row">
                             <div class="col-xs-3">
                                 <div class="_image_name">
@@ -124,14 +124,14 @@
                                     <h4 class="text-muted">(Middle School  Coordinator) </h4>
                                 </div>
                             </div>
-                            <div class="col-xs-9">
+                             <div class="col-xs-9">
                                 <p>
                                     Ms. Sadia Naushad is the middle school coordinator at Cornerstone. She has over 13 years of teaching experience. She has completed her Masters degree in English Literature from Lahore College of Women University and received a distinction in ELT (English Language Teaching).</p>
                                     <p> Ms. Sadia started her career at Cornerstone as a Middle School Coordinator and took upon the responsibility of grooming and polishing the skills of middle school students by introducing a student friendly, ICT incorporated and activity-based curriculum. 
                                 </p>
-                            </div>
+                            </div> 
                         </div>
-                    </div>
+                    </div> -->
                     
                     <div class="_name_detail">
                         <div class="row">
@@ -139,7 +139,7 @@
                                 <div class="_image_name">
                                     <img class="thumbnail img-responsive" src="{{asset('public/images/team/06.jpg')}}" alt="image">
                                     <h5 class="_name_name">Ms. Azeema Husnain</h5>
-                                    <h4 class="text-muted">(Elementary School  Coordinator)</h4>
+                                    <h4 class="text-muted">(Head Academic Coordinator)</h4>
                                 </div>
                             </div>
                             <div class="col-xs-9">
@@ -150,7 +150,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="_name_detail">
+                    <!-- <div class="_name_detail">
                         <div class="row">
                             <div class="col-xs-3">
                                 <div class="_image_name">
@@ -166,7 +166,7 @@
                                 </p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <div class="_name_detail">
                         <div class="row">
@@ -187,7 +187,88 @@ At Cornerstone and RWAC, she designs, manages and oversees the educational and b
                             </div>
                         </div>
                     </div>
-
+                    <div class="_name_detail">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <div class="_image_name">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/Rabia.jpg')}}" alt="image">
+                                    <h5 class="_name_name">Ms. Rabia Waqar Khan </h5>
+                                    <h4 class="text-muted">(Consultant Clinical Counselor) </h4>
+                                </div>
+                            </div>
+                            <div class="col-xs-9">
+                                <p>
+                                    Rabia Waqar Khan is a Consultant Clinical Counselor at Cornerstone School. She helps each student work to their maximum potential and also assists parents and teachers in achieving this goal. At school she provides individual therapy, brief solution focused therapy and group therapy as she strongly believes that collaborative effort between the counselor, student, parents/guardians, administration, and teachers is necessary for student success and happiness. Rabia Waqar Khan is a Clinical Psychologist and a Graduate Member of British Psychological Society. She did her MS in Clinical and Counseling Psychology and graduated with a distinction from Beaconhouse National University. She has over four years of work experience of working both as an academician and a consultant counselor.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="_name_detail">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <div class="_image_name">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/aqdas.jpg')}}" alt="image">
+                                    <h5 class="_name_name">Ms. Aqdus Aslam </h5>
+                                    <h4 class="text-muted">(Student Counsellor) </h4>
+                                </div>
+                            </div>
+                            <div class="col-xs-9">
+                                <p>
+                                    Aqdus Aslam is a graduate from Lahore University of Management Sciences and has an M Phil in Educational Leadership &amp; Management from Beaconhouse National University. She was a participant in US State Department Instructional Leadership for Pakistani Educators Program 2015 and received training at University of Massachusetts, Amherst, US.  Aqdus has been a secondary school teacher and student counsellor for the last decade and has trained teachers in teaching methodologies and curriculum design. She has designed &amp; implemented various curricula for student (advisory and career) counselling.
+Aqdus Aslam is the Student Counselor. She advises students about career choices and road mapping. She designs and administers appropriate programs and support systems to assist students with academic and career planning. She prepares the students for various admission tests including SAT and works extensively on developing resources to help students be better equipped for such tests.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="_name_detail">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <div class="_image_name">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/hafsa.jpg')}}" alt="image">
+                                    <h5 class="_name_name">Ms. Hafsa Fiaz</h5>
+                                    <h4 class="text-muted">(Speech Language Pathologist) </h4>
+                                </div>
+                            </div>
+                            <div class="col-xs-9">
+                                <p>
+                                    Ms. Hafsa Fiaz is a certified Speech Language Pathologist who has extensive experience working in private practice, in schools and in hospital settings. She received her BS Honors degree in Speech and Language Pathology with distinction from University of Health Sciences, Pakistan and then she pursued her career in MS Speech-Language and Hearing Sciences from the University of Lahore.  During her undergraduate and graduate studies, she has had multiple opportunities to work with both the pediatric and geriatric population, with a variety of communication disorders. She is  member of ASHA and holds the collaboration with Interpreters Certificate from American Speech-Language-Hearing Association, Trauma Course Certification from King Edward Medical University and has attended various workshops such as SCERTS Model, Makaton Sign Language and TEACCH Program. She has also presented her research work in various national and international conferences that includes oral presentations in the 12th Annual Symposium of Children Hospital (CH&amp;ICH), Lahore, and in the 3rd International Rehabilitation Sciences Conference, Islamabad. In August 2017, her research work was published in the 'International Journal of Rehabilitation Sciences'. Her role at Cornerstone School as a Consultant Speech-Language Pathologist includes direct one to one therapy, group therapy, family support, advocacy and collaboration with other professionals (teachers, psychologist occupational therapists) because she strongly believes that communication between school staff and parents is the  key to developing student skills. 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="_name_detail">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <div class="_image_name">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/anila.jpg')}}" alt="image">
+                                    <h5 class="_name_name">Ms. Aneela Shahid </h5>
+                                    <h4 class="text-muted">(Academic Coordinator ) </h4>
+                                </div>
+                            </div>
+                            <div class="col-xs-9">
+                                <p>
+                                    Aneela Shahid is Academic Coordinator for Grade 4 to 7 at Cornerstone School.  After having done her Bachelors in Arts (Psychology, Mathematics and Statistics from University of Karachi, She went to London to bag certificates from Pitman Examinations Institute including GCSE in English Language.  From there on, she started her career in multinational companies including Singapore Airlines, Monsanto, Pepsi-Cola and Metro Cash and Carry that lasted for 15 years .  She was sent to Singapore, Malaysia and Thailand to attend different events/workshops which included self-grooming and positive imaging workshop too. Switching to education sector became her passion shortly afterwards,  which resulted in gaining an experience of 8 years. 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="_name_detail">
+                        <div class="row">
+                            <div class="col-xs-3">
+                                <div class="_image_name">
+                                    <img class="thumbnail img-responsive" src="{{asset('public/images/team/nuzhat.jpg')}}" alt="image">
+                                    <h5 class="_name_name">Ms.Nuzhat Fatima </h5>
+                                    <h4 class="text-muted">(Academic Coordinator ) </h4>
+                                </div>
+                            </div>
+                            <div class="col-xs-9">
+                                <p>
+                                    Ms.Nuzhat Fatima is the academic coordinator of Cornerstone High School. Her working life of 14 years has been a transition from banking to academics on account of her starting her career from stock exchange to standard chartered and then teaching in LGS, Froebels international school and then Cornerstone school, which covers both of her administrative and academics fields. She has done masters in Business Administration and has attended numerous Edexcel certified workshops. She has also performed volunteer work in TCF as an educationist and in OPEP as Teacher trainer. 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+ 
                 </div>
             </div>
         </div>

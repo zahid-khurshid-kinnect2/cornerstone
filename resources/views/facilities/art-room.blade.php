@@ -7,7 +7,7 @@
         <div class="explore_post">
             <h3>Art Room</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/art.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/art-room.jpg')}}" alt="image">
             </div>
             <p>
                 At Cornerstone Art is all about creating, exploring and innovations. Art strengthens focus and increases attention, develops hand-eye coordination, requires practice and strategic thinking, and involves interacting with the material world through different tools and art mediums.<p /> 

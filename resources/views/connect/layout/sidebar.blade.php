@@ -6,7 +6,7 @@
                     <li><a href="{{url('apply')}}">Apply</a></li>
                     <li><a href="{{url('pre-school')}}">Activities</a></li>
                     <li><a href="{{url('middle-school')}}">Parent Portal</a></li>
-                <!--<li><a href="{{url('calendar')}}">Calender</a></li>-->
+                    <li><a href="{{url('calender')}}">Calender</a></li>
 
                 </ul>
             </div>

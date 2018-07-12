@@ -111,7 +111,8 @@
                         <a href="{{url('photos')}}">Connect</a>
                         <div class="dropdown_content">
                             <ul>
-                            <!--<li><a href="{{url('calendar')}}">Calender</a></li>-->
+                                <li><a href="{{url('calendar')}}">Calender</a></li>
+                                <!-- <li><a href="javascript:void(0);">Parent Portal</a></li> -->                                
                                 <li><a href="{{url('photos')}}">Activities</a></li>
                                 <li><a href="{{url('apply')}}">Apply</a></li>
                             </ul>
@@ -131,7 +132,6 @@
                     <!--</li>-->
                 </ul>
             </div><!-- /.container-fluid -->
-        </div>
     </nav>
 </header>
 

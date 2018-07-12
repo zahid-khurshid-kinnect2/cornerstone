@@ -6,7 +6,7 @@
         <div class="explore_post">
             <h3>IGCSE</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/igsce.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/igs.jpg')}}" alt="image">
             </div>
             <p>
                 The Edexcel IGCSE is one of the most recognized qualifications around the world. Edxcei

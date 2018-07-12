@@ -6,7 +6,7 @@
         <div class="explore_post">
             <h3>HIGH SCHOOL</h3>
             <div class="image">
-                <img class="img-responsive" src="{{asset('public/images/preschool.jpg')}}" alt="image">
+                <img class="img-responsive" src="{{asset('public/images/highschool.jpg')}}" alt="image">
             </div>
             <p>
                We believe that all students have potential to learn in a variety of ways. Cornerstone High School is a place where students become more confident, caring and capable as they focus on the challenges of a meaningful and well-rounded curriculum. This curriculum is a multi-layered program through which students not only learn the content of each course but also collaborate and practice leadership skills. They develop socially and develop into mature adults. </p>

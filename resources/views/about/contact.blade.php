@@ -66,13 +66,13 @@
                                         <span class="contact_icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
                                         <span class="text">042-35454001-02</span>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <span class="contact_icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
                                         <span class="text">0303 6662700  |  0303 6662800</span>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
-                                        <span class="text">hr@cornerstone.pk</span>
+                                        <span class="text">theacademics@cornerstone.pk</span>
                                     </li>
                                     <li>
                                         <span class="contact_icon"><i class="fa fa-internet-explorer" aria-hidden="true"></i></span>
